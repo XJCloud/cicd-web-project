@@ -6,6 +6,7 @@
     <hr>
     <h1>${msg}</h1>
     <h1>Have a nice day. - by some puppy</h1>
+    <h2>Stand with Ukraine!! Kill Putin</h2>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 5.0</h3>
 </body>
